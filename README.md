@@ -2,7 +2,6 @@
 
 ## Live Links
 - [Server Link](https://task-manegement-server.vercel.app/)
-- [Client Link](https://task-management-client-psi.vercel.app/)
 
 ## Description
 A comprehensive task management system built with Node.js and Express.js for the backend, and React for the frontend. This application allows users to efficiently manage their tasks, track progress, and organize their work.
